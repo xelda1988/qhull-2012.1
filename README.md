@@ -3,7 +3,7 @@ In this version qh_QHpointer 1 in /qhull-qhull/src/libqhull/user.h was defined. 
 Also the CMakeLists.txt is changed to compile static libraries with fPIC option to link into shared libraries. 
 For the original code and further information see below.
 
-Robert Krug 2012/01/11
+Alexander Rietzler 07/2015
 
 Name
 
